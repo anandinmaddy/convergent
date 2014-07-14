@@ -1,0 +1,301 @@
+<root>
+<element>
+      <addHotelShopingCart>true</addHotelShopingCart>
+      <airportList />
+      <amenitieList>
+         <element>Air Conditioning</element>
+         <element>Airport Shuttle - Free</element>
+         <element>Airport Shuttle - Paid</element>
+         <element>Car Parking - Onsite Free</element>
+         <element>Car Parking - Onsite Paid</element>
+         <element>Concierge</element>
+         <element>Doctor on call</element>
+         <element>Elevators</element>
+         <element>Foreign Currency Exchange</element>
+         <element>High Speed Internet</element>
+         <element>Multilingual Staff</element>
+         <element>Porterage</element>
+         <element>Safety Deposit Box</element>
+         <element>Tour Desk</element>
+         <element>Wheelchair Access</element>
+      </amenitieList>
+      <attractionList />
+      <availabilityStatus>Available</availabilityStatus>
+      <blockCount>0</blockCount>
+      <checkInDate null="true" />
+      <checkInDateString>05-Aug-2014</checkInDateString>
+      <checkInTime>14:00</checkInTime>
+      <checkOutDate null="true" />
+      <checkOutDateString>07-Aug-2014</checkOutDateString>
+      <checkOutTime>12:00</checkOutTime>
+      <city>DUBAI</city>
+      <cityCode>364</cityCode>
+      <cityName />
+      <comments />
+      <conversionRate>1</conversionRate>
+      <convertedGrossFare>0</convertedGrossFare>
+      <country />
+      <currency>AED</currency>
+      <duration>0</duration>
+      <flightQuotationMode>true</flightQuotationMode>
+      <galleryList>
+         <element>
+            <alternativeText />
+            <imagePath>http://us.dotwconnect.com/poze_hotel/110662-img1-1.jpg</imagePath>
+         </element>
+         <element>
+            <alternativeText />
+            <imagePath>http://us.dotwconnect.com/poze_hotel/110662-img2-1.jpg</imagePath>
+         </element>
+         <element>
+            <alternativeText />
+            <imagePath>http://us.dotwconnect.com/poze_hotel/110662-img3-1.jpg</imagePath>
+         </element>
+         <element>
+            <alternativeText />
+            <imagePath>http://us.dotwconnect.com/poze_hotel/110662-img4-1.jpg</imagePath>
+         </element>
+         <element>
+            <alternativeText />
+            <imagePath>http://us.dotwconnect.com/poze_hotel/110662-img5-2.jpg</imagePath>
+         </element>
+      </galleryList>
+      <generalAmenities>
+         <element>
+            <amenity>24 Hour Front Desk Not Available</amenity>
+            <code>643_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>24-Hour Coffee Shop Not Available</amenity>
+            <code>3104_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Air Conditioning Available</amenity>
+            <code>719_Available</code>
+         </element>
+         <element>
+            <amenity>Bar Not Available</amenity>
+            <code>3134_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Elevators Available</amenity>
+            <code>2007_Available</code>
+         </element>
+         <element>
+            <amenity>Foreign Currency Exchange Available</amenity>
+            <code>3871_Available</code>
+         </element>
+         <element>
+            <amenity>Free On - Site Car parking Available</amenity>
+            <code>3094_Available</code>
+         </element>
+         <element>
+            <amenity>High Speed Internet Available</amenity>
+            <code>3664_Available</code>
+         </element>
+         <element>
+            <amenity>Lobby Not Available</amenity>
+            <code>3054_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Multilingual Staff Available</amenity>
+            <code>3074_Available</code>
+         </element>
+         <element>
+            <amenity>Safety Deposit Box Available</amenity>
+            <code>1993_Available</code>
+         </element>
+         <element>
+            <amenity>Security Guards Not Available</amenity>
+            <code>1994_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Shuttle Services Not Available</amenity>
+            <code>3881_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Wheelchair Access Available</amenity>
+            <code>1995_Available</code>
+         </element>
+         <element>
+            <amenity>Sauna Not Available</amenity>
+            <code>116_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Swimming Pool Not Available</amenity>
+            <code>117_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Room Service Not Available</amenity>
+            <code>118_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Porterage Not Available</amenity>
+            <code>119_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Night Club Not Available</amenity>
+            <code>120_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Business Facilities Not Available</amenity>
+            <code>121_NotAvailable</code>
+         </element>
+         <element>
+            <amenity>Pets Allowed Not Available</amenity>
+            <code>122_NotAvailable</code>
+         </element>
+      </generalAmenities>
+      <googleMap />
+      <grossFare>0</grossFare>
+      <grossWithOutDiscount>0</grossWithOutDiscount>
+      <hotelCategory />
+      <hotelCode>110662</hotelCode>
+      <hotelContactDetails null="true" />
+      <hotelDescription>London Crown Hotel is centrally located in Bur Dubai with 64 well appointed rooms equipped with all modern amenities and facilities to make your stay pleasant.Guests can dine in the restaurant which offers international cuisine.</hotelDescription>
+      <hotelLocation />
+      <index>0</index>
+      <inventoryTypeKey>0</inventoryTypeKey>
+      <latitude>25.2557897424109</latitude>
+      <leisureList />
+      <locationList>
+         <element>
+            <code />
+            <location>City Centre - Bur Dubai</location>
+         </element>
+      </locationList>
+      <longitude>55.3043282032013</longitude>
+      <markUpType />
+      <markUpValue>0</markUpValue>
+      <maxSell>0</maxSell>
+      <name>LONDON CROWN HOTEL</name>
+      <offerDesc />
+      <offerDiscount>0</offerDiscount>
+      <offers />
+      <passengerNationality>20</passengerNationality>
+      <primaryPhoneNo>+971 9714-3572229</primaryPhoneNo>
+      <productAddedDate null="true" />
+      <provider>DOTW</provider>
+      <providerCurrencyCode>AED</providerCurrencyCode>
+      <quotationMarkUpValue>0</quotationMarkUpValue>
+      <railwayList />
+      <roomCombinationFixed>false</roomCombinationFixed>
+      <roomId>0</roomId>
+      <roomOccupancyGroups>
+         <element>
+            <index>1</index>
+            <key />
+            <roomGroupBean>
+               <adultCount>1</adultCount>
+               <childAgeString />
+               <childCount>0</childCount>
+               <childName />
+               <infantCount>0</infantCount>
+               <roomCount>1</roomCount>
+               <roomDescription>Single</roomDescription>
+            </roomGroupBean>
+            <roomInfoList>
+               <element>
+                  <adultCount>0</adultCount>
+                  <alertMessage />
+                  <allocationDetails>
+                     <element>YTo0OntzOjM6InNpZCI7aToxMDAwO3M6MzoidGlkIjtzOjE2OiIxNDAxNzExMDM5MDAwMDAxIjtzOjE6Im4iO2k6MTtzOjM6InNjYSI7YToyOntzOjI6ImRyIjthOjI6e3M6MTA6IjIwMTQtMDgtMDUiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O3M6MTA6IjIwMTQtMDgtMDYiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O31zOjI6Im9hIjtzOjc1MjoiWVRveU9udHpPakV3T2lJeU1ERTBMVEE0TFRBMUlqdGhPakV4T250cE9qRTdaRG94TkRBeE56RXhNRFF3TGpZMk5Ua3lNRGszTWpneU5EQTVOalkzT1RZNE56VTdhVG95TzNNNk1UQTZJakV3TURRMU5EQTNNelVpTzJrNk16dHpPamc2SWpVNU5UZzJPVEUxSWp0cE9qUTdjem8yT2lJMU16TXpNVFVpTzJrNk5UdHpPamM2SWpJeU9UQXdNRFVpTzJrNk5qdHBPakV6TXpFN2FUbzNPM002TVRvaU1DSTdhVG80TzNNNk16b2llV1Z6SWp0cE9qazdjem8wTURvaVltSTROVGN6WVRabFl6SXhZalEzT1RoalkyUTJNamsxWWpVME5UQXhZalF6Tm1Oa1lUSm1aQ0k3YVRveE1UdHpPakl4T2lJeU56VjhMVEY4TXpZMmZERTBNRGN3TnpRME1EQWlPMms2TVRJN2N6b3lPaUkzTWlJN2ZYTTZNVEE2SWpJd01UUXRNRGd0TURZaU8yRTZNVEU2ZTJrNk1UdGtPakUwTURFM01URXdOREF1TmpZMU9USXdPVGN5T0RJME1EazJOamM1TmpnM05UdHBPakk3Y3pveE1Eb2lNVEF3TkRVME1EY3pOU0k3YVRvek8zTTZPRG9pTlRrMU9EWTVNVFVpTzJrNk5EdHpPalk2SWpVek16TXhOU0k3YVRvMU8zTTZOem9pTWpJNU1EQXdOU0k3YVRvMk8yazZNVE16TVR0cE9qYzdjem94T2lJd0lqdHBPamc3Y3pvek9pSjVaWE1pTzJrNk9UdHpPalF3T2lKaVlqZzFOek5oTm1Wak1qRmlORGM1T0dOalpEWXlPVFZpTlRRMU1ERmlORE0yWTJSaE1tWmtJanRwT2pFeE8zTTZNakU2SWpJM05Yd3RNWHd6TmpaOE1UUXdOekEzTkRRd01DSTdhVG94TWp0ek9qSTZJamN5SWp0OWZRPT0iO319</element>
+                  </allocationDetails>
+                  <amendmentPolicies />
+                  <amendmentPolicy />
+                  <availabilityStatus>unchecked</availabilityStatus>
+                  <availableRooms />
+                  <bookingIdentifierId />
+                  <cancelThisRoom>false</cancelThisRoom>
+                  <cancellationChargeCode />
+                  <cancellationPolicies />
+                  <cancellationPolicy>If cancelled before  &lt;b&gt;02-Aug-2014 13:59:59&lt;/b&gt;, you will not be charged.
+If cancelled after  &lt;b&gt;02-Aug-2014 14:00:00&lt;/b&gt;, you will be charged   &lt;b&gt;289.47&lt;/b&gt; AED&lt;br /&gt;</cancellationPolicy>
+                  <cancelledAmt>0</cancelledAmt>
+                  <childCount>0</childCount>
+                  <childrenAge />
+                  <comments>Compulsory Tourism Dirham to be paid by guest directly to the hotel per room per night valid from 31st March 2014 Onward.
+No show and early departure will be subjected to 100% charge. No date, name and room change allowed. Bookings including children will be based on sharing parents bedding, no separate bed for children is provided unless otherwise stated.</comments>
+                  <discount>0</discount>
+                  <extrabeds>0</extrabeds>
+                  <grossWithoutDiscount>0</grossWithoutDiscount>
+                  <infantCount>0</infantCount>
+                  <itnryBookingNo>0</itnryBookingNo>
+                  <maxAdultCount />
+                  <maxChildCount />
+                  <maxExtraBed />
+                  <mealBoard>Breakfast</mealBoard>
+                  <minAdultCount />
+                  <minChildCount />
+                  <offerCodeAndOffer />
+                  <offerDiscount />
+                  <onRequest>false</onRequest>
+                  <passangerNameAllowed />
+                  <paymentGuaranteedBy />
+                  <penaltyAmount>0</penaltyAmount>
+                  <priceCode />
+                  <propertyList />
+                  <rateBasis>Breakfast</rateBasis>
+                  <rateBasisCode>1331</rateBasisCode>
+                  <roomAmenitieList>
+                     <element>AIR CONDITIONING INDIVIDUALLY CONTROLLED IN ROOM</element>
+                  </roomAmenitieList>
+                  <roomCheckInDate null="true" />
+                  <roomCheckOutDate null="true" />
+                  <roomCode>2290005</roomCode>
+                  <roomFare>578.95</roomFare>
+                  <roomImagePath />
+                  <roomIndex>0</roomIndex>
+                  <roomItemList />
+                  <roomName>SUPERIOR ROOM</roomName>
+                  <roomRefNo />
+                  <roomType>1</roomType>
+                  <roomTypeCharacteristic />
+                  <roomsFareDeatilsList>
+                     <element>
+                        <fri>0</fri>
+                        <friDate />
+                        <mon>0</mon>
+                        <monDate />
+                        <sat>0</sat>
+                        <satDate />
+                        <sun>0</sun>
+                        <sunDate />
+                        <thu>0</thu>
+                        <thuDate />
+                        <tue>289.47</tue>
+                        <tueDate />
+                        <wed>289.47</wed>
+                        <wedDate />
+                        <week>Wk 1</week>
+                     </element>
+                  </roomsFareDeatilsList>
+                  <sequenceNo />
+                  <serviceCharge>0</serviceCharge>
+                  <serviceChargeType />
+                  <sharedBedding>false</sharedBedding>
+                  <status />
+                  <uniqueIdentifierDetails>YTo0OntzOjM6InNpZCI7aToxMDAwO3M6MzoidGlkIjtzOjE2OiIxNDAxNzExMDM5MDAwMDAxIjtzOjE6Im4iO2k6MTtzOjM6InNjYSI7YToyOntzOjI6ImRyIjthOjI6e3M6MTA6IjIwMTQtMDgtMDUiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O3M6MTA6IjIwMTQtMDgtMDYiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O31zOjI6Im9hIjtzOjc1MjoiWVRveU9udHpPakV3T2lJeU1ERTBMVEE0TFRBMUlqdGhPakV4T250cE9qRTdaRG94TkRBeE56RXhNRFF3TGpZMk5Ua3lNRGszTWpneU5EQTVOalkzT1RZNE56VTdhVG95TzNNNk1UQTZJakV3TURRMU5EQTNNelVpTzJrNk16dHpPamc2SWpVNU5UZzJPVEUxSWp0cE9qUTdjem8yT2lJMU16TXpNVFVpTzJrNk5UdHpPamM2SWpJeU9UQXdNRFVpTzJrNk5qdHBPakV6TXpFN2FUbzNPM002TVRvaU1DSTdhVG80TzNNNk16b2llV1Z6SWp0cE9qazdjem8wTURvaVltSTROVGN6WVRabFl6SXhZalEzT1RoalkyUTJNamsxWWpVME5UQXhZalF6Tm1Oa1lUSm1aQ0k3YVRveE1UdHpPakl4T2lJeU56VjhMVEY4TXpZMmZERTBNRGN3TnpRME1EQWlPMms2TVRJN2N6b3lPaUkzTWlJN2ZYTTZNVEE2SWpJd01UUXRNRGd0TURZaU8yRTZNVEU2ZTJrNk1UdGtPakUwTURFM01URXdOREF1TmpZMU9USXdPVGN5T0RJME1EazJOamM1TmpnM05UdHBPakk3Y3pveE1Eb2lNVEF3TkRVME1EY3pOU0k3YVRvek8zTTZPRG9pTlRrMU9EWTVNVFVpTzJrNk5EdHpPalk2SWpVek16TXhOU0k3YVRvMU8zTTZOem9pTWpJNU1EQXdOU0k3YVRvMk8yazZNVE16TVR0cE9qYzdjem94T2lJd0lqdHBPamc3Y3pvek9pSjVaWE1pTzJrNk9UdHpPalF3T2lKaVlqZzFOek5oTm1Wak1qRmlORGM1T0dOalpEWXlPVFZpTlRRMU1ERmlORE0yWTJSaE1tWmtJanRwT2pFeE8zTTZNakU2SWpJM05Yd3RNWHd6TmpaOE1UUXdOekEzTkRRd01DSTdhVG94TWp0ek9qSTZJamN5SWp0OWZRPT0iO319</uniqueIdentifierDetails>
+               </element>
+            </roomInfoList>
+         </element>
+      </roomOccupancyGroups>
+      <saalamPoints>0</saalamPoints>
+      <searchMode />
+      <selectedRoomOccupancyGroups />
+      <service />
+      <serviceChargeAmount>0</serviceChargeAmount>
+      <serviceDiscountAmount>0</serviceDiscountAmount>
+      <sessionId />
+      <starRating />
+      <street>P.O.BOX. 31388, NEXT TO BURJUMAN SHOPPING CENTRE, SHEIKH KHALIFA BIN ZAYED ROAD, AL HAMRIYA, BUR DUBAI</street>
+      <supplierKey>0</supplierKey>
+      <thresholdCount>0</thresholdCount>
+      <thumbnailPath>http://us.dotwconnect.com/poze_hotel/110662-img1short-1.jpg</thumbnailPath>
+      <totalNoOfPax>0</totalNoOfPax>
+      <totalNoOfRooms>0</totalNoOfRooms>
+      <uniqueIdentifier />
+      <updatedFare>false</updatedFare>
+      <zipCode />
+   </element>
+   </root>
