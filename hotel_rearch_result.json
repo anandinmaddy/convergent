@@ -1,0 +1,229 @@
+{
+  "root": {
+    "element": {
+      "addHotelShopingCart": "true",
+      "amenitieList": {
+        "element": [
+          "Air Conditioning",
+          "Airport Shuttle - Free",
+          "Airport Shuttle - Paid",
+          "Car Parking - Onsite Free",
+          "Car Parking - Onsite Paid",
+          "Concierge",
+          "Doctor on call",
+          "Elevators",
+          "Foreign Currency Exchange",
+          "High Speed Internet",
+          "Multilingual Staff",
+          "Porterage",
+          "Safety Deposit Box",
+          "Tour Desk",
+          "Wheelchair Access"
+        ]
+      },
+      "availabilityStatus": "Available",
+      "blockCount": "0",
+      "checkInDate": { "-null": "true" },
+      "checkInDateString": "05-Aug-2014",
+      "checkInTime": "14:00",
+      "checkOutDate": { "-null": "true" },
+      "checkOutDateString": "07-Aug-2014",
+      "checkOutTime": "12:00",
+      "city": "DUBAI",
+      "cityCode": "364",
+      "conversionRate": "1",
+      "convertedGrossFare": "0",
+      "currency": "AED",
+      "duration": "0",
+      "flightQuotationMode": "true",
+      "galleryList": {
+        "element": [
+          { "imagePath": "http://us.dotwconnect.com/poze_hotel/110662-img1-1.jpg" },
+          { "imagePath": "http://us.dotwconnect.com/poze_hotel/110662-img2-1.jpg" },
+          { "imagePath": "http://us.dotwconnect.com/poze_hotel/110662-img3-1.jpg" },
+          { "imagePath": "http://us.dotwconnect.com/poze_hotel/110662-img4-1.jpg" },
+          { "imagePath": "http://us.dotwconnect.com/poze_hotel/110662-img5-2.jpg" }
+        ]
+      },
+      "generalAmenities": {
+        "element": [
+          {
+            "amenity": "24 Hour Front Desk Not Available",
+            "code": "643_NotAvailable"
+          },
+          {
+            "amenity": "24-Hour Coffee Shop Not Available",
+            "code": "3104_NotAvailable"
+          },
+          {
+            "amenity": "Air Conditioning Available",
+            "code": "719_Available"
+          },
+          {
+            "amenity": "Bar Not Available",
+            "code": "3134_NotAvailable"
+          },
+          {
+            "amenity": "Elevators Available",
+            "code": "2007_Available"
+          },
+          {
+            "amenity": "Foreign Currency Exchange Available",
+            "code": "3871_Available"
+          },
+          {
+            "amenity": "Free On - Site Car parking Available",
+            "code": "3094_Available"
+          },
+          {
+            "amenity": "High Speed Internet Available",
+            "code": "3664_Available"
+          },
+          {
+            "amenity": "Lobby Not Available",
+            "code": "3054_NotAvailable"
+          },
+          {
+            "amenity": "Multilingual Staff Available",
+            "code": "3074_Available"
+          },
+          {
+            "amenity": "Safety Deposit Box Available",
+            "code": "1993_Available"
+          },
+          {
+            "amenity": "Security Guards Not Available",
+            "code": "1994_NotAvailable"
+          },
+          {
+            "amenity": "Shuttle Services Not Available",
+            "code": "3881_NotAvailable"
+          },
+          {
+            "amenity": "Wheelchair Access Available",
+            "code": "1995_Available"
+          },
+          {
+            "amenity": "Sauna Not Available",
+            "code": "116_NotAvailable"
+          },
+          {
+            "amenity": "Swimming Pool Not Available",
+            "code": "117_NotAvailable"
+          },
+          {
+            "amenity": "Room Service Not Available",
+            "code": "118_NotAvailable"
+          },
+          {
+            "amenity": "Porterage Not Available",
+            "code": "119_NotAvailable"
+          },
+          {
+            "amenity": "Night Club Not Available",
+            "code": "120_NotAvailable"
+          },
+          {
+            "amenity": "Business Facilities Not Available",
+            "code": "121_NotAvailable"
+          },
+          {
+            "amenity": "Pets Allowed Not Available",
+            "code": "122_NotAvailable"
+          }
+        ]
+      },
+      "grossFare": "0",
+      "grossWithOutDiscount": "0",
+      "hotelCode": "110662",
+      "hotelContactDetails": { "-null": "true" },
+      "hotelDescription": "London Crown Hotel is centrally located in Bur Dubai with 64 well appointed rooms equipped with all modern amenities and facilities to make your stay pleasant.Guests can dine in the restaurant which offers international cuisine.",
+      "index": "0",
+      "inventoryTypeKey": "0",
+      "latitude": "25.2557897424109",
+      "locationList": {
+        "element": { "location": "City Centre - Bur Dubai" }
+      },
+      "longitude": "55.3043282032013",
+      "markUpValue": "0",
+      "maxSell": "0",
+      "name": "LONDON CROWN HOTEL",
+      "offerDiscount": "0",
+      "passengerNationality": "20",
+      "primaryPhoneNo": "+971 9714-3572229",
+      "productAddedDate": { "-null": "true" },
+      "provider": "DOTW",
+      "providerCurrencyCode": "AED",
+      "quotationMarkUpValue": "0",
+      "roomCombinationFixed": "false",
+      "roomId": "0",
+      "roomOccupancyGroups": {
+        "element": {
+          "index": "1",
+          "roomGroupBean": {
+            "adultCount": "1",
+            "childCount": "0",
+            "infantCount": "0",
+            "roomCount": "1",
+            "roomDescription": "Single"
+          },
+          "roomInfoList": {
+            "element": {
+              "adultCount": "0",
+              "allocationDetails": { "element": "YTo0OntzOjM6InNpZCI7aToxMDAwO3M6MzoidGlkIjtzOjE2OiIxNDAxNzExMDM5MDAwMDAxIjtzOjE6Im4iO2k6MTtzOjM6InNjYSI7YToyOntzOjI6ImRyIjthOjI6e3M6MTA6IjIwMTQtMDgtMDUiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O3M6MTA6IjIwMTQtMDgtMDYiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O31zOjI6Im9hIjtzOjc1MjoiWVRveU9udHpPakV3T2lJeU1ERTBMVEE0TFRBMUlqdGhPakV4T250cE9qRTdaRG94TkRBeE56RXhNRFF3TGpZMk5Ua3lNRGszTWpneU5EQTVOalkzT1RZNE56VTdhVG95TzNNNk1UQTZJakV3TURRMU5EQTNNelVpTzJrNk16dHpPamc2SWpVNU5UZzJPVEUxSWp0cE9qUTdjem8yT2lJMU16TXpNVFVpTzJrNk5UdHpPamM2SWpJeU9UQXdNRFVpTzJrNk5qdHBPakV6TXpFN2FUbzNPM002TVRvaU1DSTdhVG80TzNNNk16b2llV1Z6SWp0cE9qazdjem8wTURvaVltSTROVGN6WVRabFl6SXhZalEzT1RoalkyUTJNamsxWWpVME5UQXhZalF6Tm1Oa1lUSm1aQ0k3YVRveE1UdHpPakl4T2lJeU56VjhMVEY4TXpZMmZERTBNRGN3TnpRME1EQWlPMms2TVRJN2N6b3lPaUkzTWlJN2ZYTTZNVEE2SWpJd01UUXRNRGd0TURZaU8yRTZNVEU2ZTJrNk1UdGtPakUwTURFM01URXdOREF1TmpZMU9USXdPVGN5T0RJME1EazJOamM1TmpnM05UdHBPakk3Y3pveE1Eb2lNVEF3TkRVME1EY3pOU0k3YVRvek8zTTZPRG9pTlRrMU9EWTVNVFVpTzJrNk5EdHpPalk2SWpVek16TXhOU0k3YVRvMU8zTTZOem9pTWpJNU1EQXdOU0k3YVRvMk8yazZNVE16TVR0cE9qYzdjem94T2lJd0lqdHBPamc3Y3pvek9pSjVaWE1pTzJrNk9UdHpPalF3T2lKaVlqZzFOek5oTm1Wak1qRmlORGM1T0dOalpEWXlPVFZpTlRRMU1ERmlORE0yWTJSaE1tWmtJanRwT2pFeE8zTTZNakU2SWpJM05Yd3RNWHd6TmpaOE1UUXdOekEzTkRRd01DSTdhVG94TWp0ek9qSTZJamN5SWp0OWZRPT0iO319" },
+              "availabilityStatus": "unchecked",
+              "cancelThisRoom": "false",
+              "cancellationPolicy": "If cancelled before ",
+              "cancelledAmt": "0",
+              "childCount": "0",
+              "comments": "Compulsory Tourism Dirham ",
+              "discount": "0",
+              "extrabeds": "0",
+              "grossWithoutDiscount": "0",
+              "infantCount": "0",
+              "itnryBookingNo": "0",
+              "mealBoard": "Breakfast",
+              "onRequest": "false",
+              "penaltyAmount": "0",
+              "rateBasis": "Breakfast",
+              "rateBasisCode": "1331",
+              "roomAmenitieList": { "element": "AIR CONDITIONING INDIVIDUALLY CONTROLLED IN ROOM" },
+              "roomCheckInDate": { "-null": "true" },
+              "roomCheckOutDate": { "-null": "true" },
+              "roomCode": "2290005",
+              "roomFare": "578.95",
+              "roomIndex": "0",
+              "roomName": "SUPERIOR ROOM",
+              "roomType": "1",
+              "roomsFareDeatilsList": {
+                "element": {
+                  "fri": "0",
+                  "mon": "0",
+                  "sat": "0",
+                  "sun": "0",
+                  "thu": "0",
+                  "tue": "289.47",
+                  "wed": "289.47",
+                  "week": "Wk 1"
+                }
+              },
+              "serviceCharge": "0",
+              "sharedBedding": "false",
+              "uniqueIdentifierDetails": "YTo0OntzOjM6InNpZCI7aToxMDAwO3M6MzoidGlkIjtzOjE2OiIxNDAxNzExMDM5MDAwMDAxIjtzOjE6Im4iO2k6MTtzOjM6InNjYSI7YToyOntzOjI6ImRyIjthOjI6e3M6MTA6IjIwMTQtMDgtMDUiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O3M6MTA6IjIwMTQtMDgtMDYiO2Q6Mjg5LjQ3MzcwMDAwMDAwMDAwODAwMzU1MzM3NTYwMTc2ODQ5MzY1MjM0Mzc1O31zOjI6Im9hIjtzOjc1MjoiWVRveU9udHpPakV3T2lJeU1ERTBMVEE0TFRBMUlqdGhPakV4T250cE9qRTdaRG94TkRBeE56RXhNRFF3TGpZMk5Ua3lNRGszTWpneU5EQTVOalkzT1RZNE56VTdhVG95TzNNNk1UQTZJakV3TURRMU5EQTNNelVpTzJrNk16dHpPamc2SWpVNU5UZzJPVEUxSWp0cE9qUTdjem8yT2lJMU16TXpNVFVpTzJrNk5UdHpPamM2SWpJeU9UQXdNRFVpTzJrNk5qdHBPakV6TXpFN2FUbzNPM002TVRvaU1DSTdhVG80TzNNNk16b2llV1Z6SWp0cE9qazdjem8wTURvaVltSTROVGN6WVRabFl6SXhZalEzT1RoalkyUTJNamsxWWpVME5UQXhZalF6Tm1Oa1lUSm1aQ0k3YVRveE1UdHpPakl4T2lJeU56VjhMVEY4TXpZMmZERTBNRGN3TnpRME1EQWlPMms2TVRJN2N6b3lPaUkzTWlJN2ZYTTZNVEE2SWpJd01UUXRNRGd0TURZaU8yRTZNVEU2ZTJrNk1UdGtPakUwTURFM01URXdOREF1TmpZMU9USXdPVGN5T0RJME1EazJOamM1TmpnM05UdHBPakk3Y3pveE1Eb2lNVEF3TkRVME1EY3pOU0k3YVRvek8zTTZPRG9pTlRrMU9EWTVNVFVpTzJrNk5EdHpPalk2SWpVek16TXhOU0k3YVRvMU8zTTZOem9pTWpJNU1EQXdOU0k3YVRvMk8yazZNVE16TVR0cE9qYzdjem94T2lJd0lqdHBPamc3Y3pvek9pSjVaWE1pTzJrNk9UdHpPalF3T2lKaVlqZzFOek5oTm1Wak1qRmlORGM1T0dOalpEWXlPVFZpTlRRMU1ERmlORE0yWTJSaE1tWmtJanRwT2pFeE8zTTZNakU2SWpJM05Yd3RNWHd6TmpaOE1UUXdOekEzTkRRd01DSTdhVG94TWp0ek9qSTZJamN5SWp0OWZRPT0iO319"
+            }
+          }
+        }
+      },
+      "saalamPoints": "0",
+      "serviceChargeAmount": "0",
+      "serviceDiscountAmount": "0",
+      "street": "P.O.BOX. 31388, NEXT TO BURJUMAN SHOPPING CENTRE, SHEIKH KHALIFA BIN ZAYED ROAD, AL HAMRIYA, BUR DUBAI",
+      "supplierKey": "0",
+      "thresholdCount": "0",
+      "thumbnailPath": "http://us.dotwconnect.com/poze_hotel/110662-img1short-1.jpg",
+      "totalNoOfPax": "0",
+      "totalNoOfRooms": "0",
+      "updatedFare": "false"
+    }
+  }
+}
