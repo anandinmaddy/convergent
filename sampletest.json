@@ -1,13 +1,13 @@
 [{
-        "title": "Anandh Testing",
+        "title": "Day1",
         "image": "http://s9.postimg.org/byphj8mqj/auth_pop.png",
         "rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Action", "Drama", "Sci-Fi"]
     },
     {
-        "title": "District 9",
-        "image": "http://api.androidhive.info/json/movies/2.jpg",
+        "title": "Day2",
+        "image": "http://i62.tinypic.com/2iuujp4.jpg",
         "rating": 8,
         "releaseYear": 2009,
         "genre": ["Action", "Sci-Fi", "Thriller"]
